@@ -8,11 +8,40 @@ html {
     font-size: 14px;
 }
 
+#home {
+
+}
+
+#about {
+    background-color: #611b1b;
+
+}
+
+#download {
+    background-color: #ffff8b;
+}
+
+#doc {
+    background-color: #9f9eff;
+
+}
+
+#donate {
+    background-color: #6581ff;
+
+}
+
+#contact {
+    background-color: #cfff4d;
+}
+
+
 .container {
     margin-left: 10%;
     max-width: 960px;
-    height: calc(100vh - 62px);
-    margin-top: 62px;
+    height: 100vh;
+    /* height: calc(100vh - 62px); */
+    padding-top: 62px;
 }
 
 .top-nav_fixed {
